@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jowsnunez.highplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jowsnunez.highplugin.MyBundle
 
 class MyApplicationService {
 
